@@ -17,10 +17,14 @@ These instructions will guide you on how to set up the project on your local mac
 
 ### Cloning the Repository
 
+frontend: 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/gaurav147-star/voxel-frontend
 ```
-
+backend:
+```bash
+git clone https://github.com/gaurav147-star/voxel-backend
+```
 ### Setting up ReactJS
 
 Install Dependencies:
