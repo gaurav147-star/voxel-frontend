@@ -102,5 +102,6 @@ Add more details or descriptions about each endpoint, request methods, expected 
 
 ![image](https://github.com/gaurav147-star/voxel-frontend/assets/78996081/3df8b09a-f14d-4341-aa5f-0c228afbc534)
 ![image](https://github.com/gaurav147-star/voxel-frontend/assets/78996081/20f6b41a-1a47-4d46-b407-28db624f1c20)
+![image](https://github.com/gaurav147-star/voxel-frontend/assets/78996081/29f4ed03-fba0-4f54-974e-26c304a58862)
 
 
